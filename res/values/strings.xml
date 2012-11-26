@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CustomListViewWithImages</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Custom Listview with Images Demo</string>
+    <string name="listrow_icon">Imageview in listiew row</string>
+    
+
+</resources>
